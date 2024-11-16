@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalaivaninagarajan0306" alt="kalaivaninagarajan0306" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently learning **Full STACK DEVELOPMENT**
 
 - 📫 How to reach me **nkalaivani0306@gmail.com**
 
